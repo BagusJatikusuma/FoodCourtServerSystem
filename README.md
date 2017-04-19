@@ -1,2 +1,2 @@
-# FoodCourtSystem
-Project Tugas Akhir Food Court
+# FoodCourtServerSystem
+Project Tugas Akhir Food Court subsistem server
